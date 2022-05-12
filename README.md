@@ -1,6 +1,6 @@
 # React Suspense and Freeze
 
-This repo contains implementations of `React Suspense` and `React Freeze`. This serves as sample projects for my upcoming post on LogRocket about React Freeze.
+This repo contains implementations of `React Suspense` and `React Freeze`. This serves as sample projects for my post [Exploring React Suspense with React Freeze](https://blog.logrocket.com/exploring-react-suspense-react-freeze/).
 
 The original implementation for React Suspense was copied from the implementation shared on the React Docs and CodePen at https://codesandbox.io/s/frosty-hermann-bztrp.
 
